@@ -6,7 +6,7 @@ import styles from "../styles/Home.module.css";
 const Home: NextPage = () => {
   return (
     <>
-      <h1>Hi gitflow</h1>
+      <h1 style={{ color: "red" }}>Hi gitflow</h1>
     </>
   );
 };
