@@ -13,6 +13,7 @@ const Home: NextPage = () => {
         asperiores, distinctio, totam aspernatur ab inventore. Consequatur iste
         voluptates nesciunt illo.
       </p>
+      <h1 style={{ color: "red" }}>Hi gitflow</h1>
     </>
   );
 };
