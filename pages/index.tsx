@@ -14,6 +14,11 @@ const Home: NextPage = () => {
         voluptates nesciunt illo.
       </p>
       <h1 style={{ color: "red" }}>Hi gitflow</h1>
+      <h1 style={{ color: "red" }}>Hi gitflow</h1>
+      <h1 style={{ color: "red" }}>Hi gitflow</h1>
+      <h1 style={{ color: "red" }}>Hi gitflow</h1>
+      <h1 style={{ color: "red" }}>Hi gitflow</h1>
+      <h1 style={{ color: "red" }}>Hi gitflow</h1>
     </>
   );
 };
